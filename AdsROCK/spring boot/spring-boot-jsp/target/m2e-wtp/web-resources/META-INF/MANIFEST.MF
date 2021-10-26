@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Welcome
+Build-Jdk: 11.0.2
+Implementation-Title: EMSApp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.adsRock.main
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/EMSApp
+Created-By: Maven Integration for Eclipse
+
